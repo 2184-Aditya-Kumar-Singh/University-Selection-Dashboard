@@ -2,9 +2,14 @@
 
 An interactive Power BI dashboard for exploring postgraduate Computer Science programmes across Europe — built to research and compare universities for a 2029 master's intake.
 
-![Power BI](<img width="577" height="323" alt="Screenshot 2026-07-19 135517" src="https://github.com/user-attachments/assets/921411e4-e09f-4b05-bcb2-9737da85a3a8" />)
-![Status](<img width="331" height="302" alt="Screenshot 2026-07-19 140936" src="https://github.com/user-attachments/assets/8dfce2f4-01cd-42d7-934e-35408e9571eb" />)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
+<table>
+<tr>
+<td width="50%"><img src="https://github.com/user-attachments/assets/921411e4-e09f-4b05-bcb2-9737da85a3a8" width="100%" alt="Dashboard Overview"/></td>
+<td width="50%"><img src="https://github.com/user-attachments/assets/8dfce2f4-01cd-42d7-934e-35408e9571eb" width="100%" alt="Spotlight Panel"/></td>
+</tr>
+</table>
 
 ---
 
@@ -88,4 +93,4 @@ Each row includes: QS/THE ranking, faculty & department, degree & duration, lang
 
 ## 🙋 About
 
-Built by me while researching master's programmes for a 2029 intake. Feedback and suggestions welcome — feel free to open an issue.
+Built while researching master's programmes for a 2029 intake. Feedback and suggestions welcome — feel free to open an issue.
