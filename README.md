@@ -1,6 +1,6 @@
 # 🎓 Masters Abroad — University Explorer Dashboard
 
-An interactive Power BI dashboard for exploring postgraduate Computer Science programmes across Europe — built to research and compare universities for a 2029 master's intake.
+An interactive Power BI dashboard for exploring 151 postgraduate Computer Science programmes across 12 European countries — built end-to-end to practice data modeling, DAX, and dashboard design on a real-world, multi-source dataset.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
@@ -17,7 +17,7 @@ An interactive Power BI dashboard for exploring postgraduate Computer Science pr
 
 This dashboard lets you browse **151 verified university programmes across 12 European countries**, filter by country, search for a specific university, and drill into a full "dossier" view showing rankings, cost breakdown, admission requirements, and scholarship info for any selected programme.
 
-It was built as a personal research tool for comparing master's programmes — covering cost of attendance, QS World Rankings, IELTS/GRE/GMAT/APS requirements, visa difficulty, and PR pathways — all in one interactive view instead of scattered spreadsheets and browser tabs.
+The project's goal was to take a messy, multi-source dataset (rankings, tuition, admissions data scraped and verified from official university sources) and turn it into a clean, fully interactive analytics tool — covering everything from data cleaning and modeling to writing dynamic DAX measures and designing a custom dark-themed UI.
 
 ---
 
@@ -91,6 +91,12 @@ Each row includes: QS/THE ranking, faculty & department, degree & duration, lang
 
 ---
 
+## 📄 License
+
+This project is for educational and portfolio use. University data is aggregated from public sources and some estimated — verify all figures independently before relying on them for decisions.
+
+---
+
 ## 🙋 About
 
-Built while researching master's programmes for a 2029 intake. Feedback and suggestions welcome — feel free to open an issue.
+A self-directed project built to practice end-to-end BI development: sourcing and cleaning a real-world dataset, designing a data model, writing DAX for dynamic filtering logic, and building a polished, interactive dashboard from scratch in Power BI. Feedback and suggestions welcome — feel free to open an issue.
